@@ -1,0 +1,66 @@
+
+body, html{
+	width: 100%;
+	height: 100%;
+
+}
+
+body{
+	font-family: "Press Start 2P";
+}
+
+
+
+header.startup {
+  background-position: center;
+  background-image: url(background.jpg);
+  background-size: cover;
+  height: 100%;
+}
+
+header.startup hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+}
+
+header.startup h4 {
+  font-size: 2rem; 
+}
+
+h4{
+	font-size: 35px;
+	margin-top: 10px;
+	border: solid rgba(255,0,0,.4);
+	text-align: center;
+
+}
+
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	border-color: black ;
+	color: black;
+	text-transform: uppercase;
+
+	font-family: "Press Start 2P";
+
+
+
+}
+
+.btn-xl
+{
+	padding: 1rem 2rem;
+}
+
+btn-danger: hover
+{
+	border-width: 5px;
+  	cursor: pointer;	
+}
+
+
+
+
+
+
