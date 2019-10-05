@@ -39,6 +39,7 @@ h4{
 	font-weight: 700;
 	border-radius: 300px;
 	border-color: black ;
+	background-color: rgba(255,0,0,.4);
 	color: black;
 	text-transform: uppercase;
 
